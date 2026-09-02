@@ -1,0 +1,54 @@
+body {
+background-color: white;
+color: #404040;
+font-size: 11pt;
+font-family: Georgia, Garamond, serif;
+}
+
+h1 {
+color: #A4A400;
+font-size: 22pt;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+}
+
+h2 {
+color: #A4A400;
+font-size: 18pt;
+font-weight: normal;
+text-decoration: underline;
+text-align: center;
+}
+
+.image {
+text-align: center;
+}
+
+.image img {
+display: block;
+margin: 5px auto;
+padding: 10px;
+border: 5px solid black;
+max-width: 80%;
+}
+
+.button {
+text-align: center;
+margin: 25px;
+}
+
+.button a {
+font-size: 14pt;
+}
+
+blockquote {
+background-color: #FFFFA8;
+font-style: italic;
+margin: 20px 50px;
+padding: 15px;
+}
+
+.tips {
+padding-left: 30px;
+}
